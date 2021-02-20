@@ -1,4 +1,4 @@
-# Ball- movement tracking
+# Ball movement tracking
 
 * The code belongs to [PyImageSearch](https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/). There is absolutely no contribution to the original code and is purely meant for sharing purpose.
 
